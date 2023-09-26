@@ -1,11 +1,4 @@
 // Create web server
-
-
-
-
-
-
-
 // Require the http module
 const http = require('http');
 
@@ -107,9 +100,4 @@ const template26 = require('./template26');
 
 // Require the template module
 const template27 = require('./template27');
-
-
-
-
-
 
